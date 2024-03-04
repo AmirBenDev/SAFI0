@@ -1,0 +1,5 @@
+List of studied cars, sorted by brand :
+Aventador, Gallardo, Huracan
+Vantage, DBS, DB11
+911 Carrera S, Cayman, Taycan
+Roma, 488, SF90
